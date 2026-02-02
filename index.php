@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to My Apache Application</title>
+    <title>Welcome to My Apache Application!</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -29,3 +29,4 @@
     <div class="footer">Powered by Apache Web Server</div>
 </body>
 </html>
+
